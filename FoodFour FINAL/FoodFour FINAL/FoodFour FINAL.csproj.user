@@ -3,5 +3,7 @@
   <PropertyGroup>
     <SelectedDevice>VisualStudio_android-23_arm_tablet</SelectedDevice>
     <DefaultDevice>VisualStudio_android-23_arm_tablet</DefaultDevice>
+    <AndroidDesignerPreferredTheme>Theme.Black.NoTitleBar</AndroidDesignerPreferredTheme>
+    <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
   </PropertyGroup>
 </Project>
