@@ -2,7 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo">
     <ImageView
         android:src="@drawable/logo"
         android:layout_width="match_parent"
@@ -15,19 +16,22 @@
         android:layout_height="wrap_content"
         android:id="@+id/editText1"
         android:layout_marginLeft="150dp"
-        android:layout_marginRight="150dp" />
+        android:layout_marginRight="150dp"
+        android:hint="Usuario" />
     <EditText
         android:inputType="textPassword"
-        android:layout_width="350dp"
+        android:layout_width="340dp"
         android:layout_height="wrap_content"
         android:id="@+id/editText2"
         android:layout_marginLeft="150dp"
-        android:layout_marginRight="150dp" />
+        android:layout_marginRight="150dp"
+        android:hint="Contraseña" />
     <Button
-        android:text="Button"
+        android:text="Ingresar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/button1"
-        android:layout_marginRight="150dp"
-        android:layout_marginLeft="150dp" />
+        android:layout_marginRight="200dp"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="20dp" />
 </LinearLayout>

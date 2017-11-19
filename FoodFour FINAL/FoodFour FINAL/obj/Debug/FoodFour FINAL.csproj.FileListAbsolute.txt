@@ -1,0 +1,24 @@
+C:\Users\Mike\Documents\GitHub\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\FoodFour FINAL.csprojResolveAssemblyReference.cache
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\bin\Debug\FoodFour FINAL.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\bin\Debug\FoodFour FINAL.pdb
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\bin\Debug\FoodFour_FINAL.FoodFour_FINAL.apk
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\bin\Debug\FoodFour_FINAL.FoodFour_FINAL-Signed.apk
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\FoodFour FINAL.csproj.CoreCompileInputs.cache
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\FoodFour FINAL.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\FoodFour FINAL.pdb
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\bin\FoodFour_FINAL.FoodFour_FINAL.apk
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\res\layout\login.xml
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\res\layout\tamano_orden.xml
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\res\layout\confirmar.xml
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\res\layout\main.xml
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\res\values\strings.xml
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\res\drawable\logo_final.png
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\res\drawable\bg.jpg
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\res\drawable\background.png
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\res\drawable\fondo.png
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\res\drawable\fondo_header.png
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\res\drawable\logo.png
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\R.cs.flag
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\uploadflags.txt
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\bin\Debug\FoodFour FINAL.dll.mdb
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\FoodFour FINAL.dll.mdb

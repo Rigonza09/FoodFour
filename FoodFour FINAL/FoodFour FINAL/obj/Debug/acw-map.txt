@@ -1,0 +1,4 @@
+FoodFour_FINAL.MainActivity, FoodFour FINAL;md5d2b222efa207a19f50358079b70d5632.MainActivity
+FoodFour_FINAL.MainActivity, FoodFour FINAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d2b222efa207a19f50358079b70d5632.MainActivity
+FoodFour_FINAL.MainActivity;md5d2b222efa207a19f50358079b70d5632.MainActivity
+foodfour_final.MainActivity;md5d2b222efa207a19f50358079b70d5632.MainActivity
