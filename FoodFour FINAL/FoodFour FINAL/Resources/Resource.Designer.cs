@@ -41,14 +41,30 @@ namespace FoodFour_FINAL
 			}
 		}
 		
-		public partial class Layout
+		public partial class Drawable
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int login = 2130837504;
+			public const int logo_final = 2130837504;
 			
-			// aapt resource value: 0x7f020001
-			public const int Main = 2130837505;
+			static Drawable()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Drawable()
+			{
+			}
+		}
+		
+		public partial class Layout
+		{
+			
+			// aapt resource value: 0x7f030000
+			public const int login = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int Main = 2130903041;
 			
 			static Layout()
 			{
@@ -63,8 +79,8 @@ namespace FoodFour_FINAL
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f030000
-			public const int app_name = 2130903040;
+			// aapt resource value: 0x7f040000
+			public const int app_name = 2130968576;
 			
 			static String()
 			{
