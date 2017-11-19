@@ -1,0 +1,22 @@
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\FoodFour FINAL.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\Java.Interop.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\Mono.Android.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\System.Core.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\System.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\System.Xml.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\mscorlib.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\System.Runtime.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\System.Threading.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\System.Collections.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\System.Collections.Concurrent.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\System.Reflection.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\System.Diagnostics.Debug.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\System.Linq.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\System.Runtime.InteropServices.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\System.Runtime.Extensions.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\System.Reflection.Extensions.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\System.Net.Http.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\System.Runtime.Serialization.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+E:\Escuelita\FoodFour\FoodFour\FoodFour FINAL\FoodFour FINAL\obj\Debug\android\assets\Mono.Security.dll

@@ -2,7 +2,7 @@
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <SelectedDevice>Sony E5306</SelectedDevice>
-    <DefaultDevice>VisualStudio_android-23_arm_tablet</DefaultDevice>
+    <DefaultDevice>Android_Accelerated_Nougat</DefaultDevice>
     <AndroidDesignerPreferredTheme>Theme.Black.NoTitleBar</AndroidDesignerPreferredTheme>
     <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
   </PropertyGroup>
