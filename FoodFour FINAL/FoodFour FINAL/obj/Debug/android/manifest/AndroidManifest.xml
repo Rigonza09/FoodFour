@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="FoodFour_FINAL.FoodFour_FINAL" android:versionCode="1" android:versionName="1.0">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="FoodFour_FINAL.FoodFour_FINAL" versionCode="1" versionName="1.0" android:versionCode="1" android:versionName="1.0">
   <!--suppress UsesMinSdkAttributes-->
-  <uses-sdk android:minSdkVersion="21" />
+  <uses-sdk minSdkVersion="21" android:minSdkVersion="11" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-  <application android:allowBackup="true" android:label="@string/app_name" android:name="android.app.Application" android:debuggable="true">
-    <activity android:name="md5d2b222efa207a19f50358079b70d5632.MainActivity">
+  <application allowBackup="true" android:name="android.app.Application" android:allowBackup="true" android:label="FoodFour_FINAL.FoodFour_FINAL" android:icon="@drawable/logo_icon" android:debuggable="true">
+    <activity android:icon="@drawable/logo_icon" android:label="FoodFour" android:screenOrientation="sensorLandscape" android:name="md5d2b222efa207a19f50358079b70d5632.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
